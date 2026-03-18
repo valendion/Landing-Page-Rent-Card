@@ -17,9 +17,11 @@ const Testimonials: React.FC = () => {
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">
-          {testimonials.map((testimonial) => (
+          {testimonials.map((testimonial, index) => (
             <div
               key={testimonial.id}
+              data-aos="fade-up"
+              data-aos-delay={(index + 1) * 100}
               className="bg-white p-8 rounded-3xl shadow-lg shadow-slate-200/50 border border-slate-100"
             >
               <div className="flex items-center space-x-1 mb-4">

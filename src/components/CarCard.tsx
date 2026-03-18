@@ -33,7 +33,11 @@ const CarCard: React.FC<CarCardProps> = ({ car }) => {
   };
 
   return (
-    <div className="car-card bg-white rounded-3xl overflow-hidden shadow-lg shadow-slate-200/50 border border-slate-100 group">
+    <div
+      data-aos="fade-up"
+      data-aos-delay="200"
+      className="car-card bg-white rounded-3xl overflow-hidden shadow-lg shadow-slate-200/50 border border-slate-100 group"
+    >
       <div className="relative h-64 overflow-hidden bg-slate-100">
         <img
           src={car.image}

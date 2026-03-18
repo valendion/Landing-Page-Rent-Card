@@ -4,10 +4,10 @@ const Footer = () => {
   return (
     <footer className="bg-slate-950 text-slate-400 py-16 border-t border-slate-900">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid md:grid-cols-3 gap-10 mb-12">
+        <div data-aos="fade-up" className="grid md:grid-cols-3 gap-10 mb-12">
           <div className="space-y-4">
             <div className="flex items-center space-x-2 text-white mb-4">
-              <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center">
+              <div className="w-8 h Asc Asc Asc Asc Asc-8 bg-white rounded-lg flex items-center justify-center">
                 <CarIcon className="w-5 h-5 text-slate-900" />
               </div>
               <span className="text-xl font-bold">Queen Car Rental</span>

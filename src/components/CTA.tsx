@@ -2,7 +2,10 @@ import React from "react";
 
 const CTA: React.FC = () => {
   return (
-    <section className="py-24 bg-slate-900 relative overflow-hidden">
+    <section
+      data-aos="zoom-in"
+      className="py-24 bg-slate-900 relative overflow-hidden"
+    >
       <div className="absolute inset-0 bg-linear-to-r from-blue-600 to-purple-600 opacity-20"></div>
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
         <p className="text-4xl md:text-5xl font-bold text-white mb-6">
