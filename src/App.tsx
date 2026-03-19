@@ -9,6 +9,7 @@ import LocationRentals from "./components/LocationRentals";
 import Testimonials from "./components/Testimonials";
 import CTA from "./components/CTA";
 import Footer from "./components/Footer";
+import BackToTop from "./components/BackToTop";
 
 function App() {
   useEffect(() => {
@@ -54,6 +55,7 @@ function App() {
         </main>
 
         <Footer />
+        <BackToTop />
       </div>
     </div>
   );
