@@ -7,7 +7,7 @@ const Footer = () => {
         <div data-aos="fade-up" className="grid md:grid-cols-3 gap-10 mb-12">
           <div className="space-y-4">
             <div className="flex items-center space-x-2 text-white mb-4">
-              <div className="w-8 h Asc Asc Asc Asc Asc-8 bg-white rounded-lg flex items-center justify-center">
+              <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center">
                 <CarIcon className="w-5 h-5 text-slate-900" />
               </div>
               <span className="text-xl font-bold">Queen Car Rental</span>

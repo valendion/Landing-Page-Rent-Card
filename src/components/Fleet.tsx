@@ -17,7 +17,7 @@ const Fleet = () => {
         <div className="text-center mb-16">
           <p
             data-aos="fade-up"
-            className="text-4xl font-bold text-slate Asc Asc Asc Asc Asc Asc Asc-900 mb-4"
+            className="text-4xl font-bold text-slate-900 mb-4"
           >
             Pilihan Mobil Kami
           </p>
