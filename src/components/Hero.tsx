@@ -47,25 +47,6 @@ const Hero = () => {
               alt="Luxury Car"
               className="relative z-10 w-full h-auto object-contain float drop-shadow-2xl rounded-3xl max-h-64 sm:max-h-80 lg:max-h-full mx-auto"
             />
-
-            <div
-              className="absolute -bottom-4 left-4 lg:bottom-10 lg:-left-10 bg-white p-3 lg:p-4 rounded-2xl shadow-xl border border-slate-100 z-20 animate-bounce hidden sm:flex"
-              style={{ animationDuration: "3s" }}
-            >
-              <div className="flex items-center space-x-2 lg:space-x-3">
-                <div className="w-10 h-10 lg:w-12 lg:h-12 bg-green-100 rounded-full flex items-center justify-center">
-                  <CheckIcon className="w-5 h-5 lg:w-6 lg:h-6 text-green-600" />
-                </div>
-                <div>
-                  <p className="text-xl lg:text-2xl font-bold text-slate-900">
-                    100+ orang
-                  </p>
-                  <p className="text-xs text-slate-500">
-                    Pengendara yang senang
-                  </p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
