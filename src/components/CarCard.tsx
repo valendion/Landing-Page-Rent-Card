@@ -29,7 +29,7 @@ const CarCard: React.FC<CarCardProps> = ({ car }) => {
   const getWhatsAppLink = () => {
     const message = `Halo, saya ingin pesan mobil ${car.name} dengan harga Rp ${formatPrice(car.pricePerDay)}/hari. Apakah tersedia?`;
     const encodedMessage = encodeURIComponent(message);
-    return `https://wa.me/6285340715225?text=${encodedMessage}`;
+    return `https://wa.me/628995617544?text=${encodedMessage}`;
   };
 
   return (

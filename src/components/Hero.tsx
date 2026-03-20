@@ -16,7 +16,7 @@ const Hero = () => {
               Rental Mobil <br />
               <span className="gradient-text">Automatic & Manual </span>
               <span className="text-3xl md:text-5xl font-bold text-slate-900 leading-tight mb-6">
-                Terlengkap Di Parepare
+                Terlengkap Di Toraja
               </span>
             </p>
             <p className="text-lg text-slate-600 mb-8 max-w-lg leading-relaxed">

@@ -79,7 +79,7 @@ const Navbar = () => {
           {/* Desktop Actions - Kanan */}
           <div className="hidden md:flex items-center space-x-4 shrink-0">
             <a
-              href="https://wa.me/6285340715225?text=Halo%2C%20saya%20ingin%20pesan%20mobil"
+              href="https://wa.me/628995617544?text=Halo%2C%20saya%20ingin%20pesan%20mobil"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-slate-900 text-white px-6 py-2.5 rounded-full text-sm font-medium hover:bg-slate-800 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-slate-900/20"
