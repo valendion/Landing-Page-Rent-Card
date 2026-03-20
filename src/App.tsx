@@ -46,12 +46,12 @@ function App() {
 
         <main>
           <Hero />
+          <CTA />
           <Stats />
           <Fleet />
           <HowItWorks />
           <LocationRentals />
           <Testimonials />
-          <CTA />
         </main>
 
         <Footer />

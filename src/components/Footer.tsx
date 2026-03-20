@@ -10,7 +10,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center">
                 <CarIcon className="w-5 h-5 text-slate-900" />
               </div>
-              <span className="text-xl font-bold">Queen Car Rental</span>
+              <span className="text-xl font-bold">Dion Car Rental</span>
             </div>
             <p className="text-sm leading-relaxed">
               Rental mobil lokal di Parepare, Sulawesi Selatan. Melayani
@@ -37,7 +37,7 @@ const Footer = () => {
             <p className="text-sm mb-4">Hubungi kami disini</p>
             <div className="flex space-x-4">
               <a
-                href="https://wa.me/6281241820456?text=Halo%2C%20saya%20ingin%20bertanya."
+                href="https://wa.me/6285340715225?text=Halo%2C%20saya%20ingin%20bertanya."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-green-400 hover:text-green-300 transition-colors"
@@ -46,7 +46,7 @@ const Footer = () => {
                 <span>WhatsApp</span>
               </a>
               <a
-                href="https://www.instagram.com/queenrentcar__/"
+                href="https://www.instagram.com/dionaja027/"
                 className="flex items-center space-x-2 text-pink-400 hover:text-pink-300 transition-colors"
               >
                 <InstagramIcon className="w-5 h-5" />
@@ -58,7 +58,7 @@ const Footer = () => {
 
         <div className="border-t border-slate-900 pt-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-sm">
-            © 2026 Queen Car Rental. Semua hak dilindungi.
+            © 2026 Dion Car Rental. Semua hak dilindungi.
           </p>
         </div>
       </div>

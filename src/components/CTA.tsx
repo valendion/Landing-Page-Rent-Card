@@ -24,7 +24,7 @@ const CTA: React.FC = () => {
             Lihat Mobil
           </a>
           <a
-            href="https://wa.me/6281241820456?text=Halo%2C%20saya%20ingin%20bertanya."
+            href="https://wa.me/6285340715225?text=Halo%2C%20saya%20ingin%20bertanya."
             target="_blank"
             rel="noopener noreferrer"
             className="bg-transparent border-2 border-white text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-white/10 transition-all inline-block text-center"
